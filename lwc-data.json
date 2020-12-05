@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "5e8a9d89b1b0d32cf0a76d6a"
+  },
+  "author": "jsmithdev",
+  "name": "modal",
+  "title": "Modal",
+  "description": "LWC modal with variant sizes, misc APIs",
+  "image": "https://camo.githubusercontent.com/961322f6863926c6c3b6e6e7f8c9abb8cece0fc4/68747470733a2f2f692e696d6775722e636f6d2f6f4a466b6f394f2e706e67",
+  "deployable": true
+},{
+  "_id": {
+    "$oid": "5e8a9d89b1b0d32cf0a76d6b"
+  },
+  "author": "jsmithdev",
+  "name": "lightndown",
+  "title": "Lightn Markdown",
+  "description": "LWC that renders markdown, by a URL or String unicorn",
+  "image": "https://camo.githubusercontent.com/0314671268a426365d0333633e94c818e3fca2a6/68747470733a2f2f692e696d6775722e636f6d2f785932777162382e706e67",
+  "deployable": true
+},{
+  "_id": {
+    "$oid": "5e8a9d89b1b0d32cf0a76d6c"
+  },
+  "author": "jsmithdev",
+  "name": "sortie-list",
+  "title": "sortie-list",
+  "description": "LWC to sort a list by drag and drop",
+  "image": "https://i.imgur.com/zp1kNCT.jpg",
+  "deployable": true
+},{
+  "_id": {
+    "$oid": "5e8aaa25b1b0d32cf0a76d6d"
+  },
+  "author": "jsmithdev",
+  "name": "rummage",
+  "title": "Rummage",
+  "description": "LWC for searching thru Salesforce records w/ ability to set sObject and fields via the builder",
+  "image": "https://camo.githubusercontent.com/e39753f2b97ca9d175017ec98ce1aba2cd9a77f8/68747470733a2f2f692e696d6775722e636f6d2f326c5146596e702e706e67"
+}]
