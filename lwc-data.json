@@ -1,5 +1,15 @@
 [{
   "_id": {
+    "$oid": "5e8a9d89b1b0d32cf0v9d0sb"
+  },
+  "author": "jsmithdev",
+  "name": "alert-modal",
+  "title": "Alert Modal",
+  "description": "A modal to alert a user to something utilizing the app builder (LWC)",
+  "image": "https://raw.githubusercontent.com/jsmithdev/alert-modal/master/resources/Screenshot_20201207.png",
+  "deployable": true
+},{
+  "_id": {
     "$oid": "5e8a9d89b1b0d32cf0a76d6a"
   },
   "author": "jsmithdev",
