@@ -1,13 +1,27 @@
 [
   {
     "_id": {
+      "$oid": "5e8a9d89b1b0d42ab78gh38d"
+    },
+    "author": "jsmithdev",
+    "name": "file-manager-sf",
+    "title": "File Manager",
+    "keywords": "file,manager,salesforce,files,category,download,upload",
+    "description": "Categorize, filter, download &amp; upload Salesforce files",
+    "image": "https://camo.githubusercontent.com/b94b432b915ef51bdf48a8f3f4bdbd78acd4b0a33a35beb3fb281aca6d946384/68747470733a2f2f692e696d6775722e636f6d2f357756495351432e706e67",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "solution"
+  },
+  {
+    "_id": {
       "$oid": "5e8a9d89b1b0d32cf0v9d0sb"
     },
     "author": "jsmithdev",
     "name": "alert-modal",
     "title": "Alert Modal",
     "keywords": "alert,lwc,popup,notify",
-    "description": "A modal to alert a user to something utilizing the app builder (LWC)",
+    "description": "A modal to alert a user to something utilizing the app builder",
     "image": "https://raw.githubusercontent.com/jsmithdev/alert-modal/master/resources/Screenshot_20201207.png",
     "deployable": true,
     "platform": "salesforce",
@@ -35,7 +49,7 @@
     "name": "lightndown",
     "title": "Lightn Markdown",
     "keywords": "markdown,lwc,md,readme",
-    "description": "LWC that renders markdown, by a URL or String unicorn",
+    "description": "LWC that renders markdown, by a URL or String",
     "image": "https://camo.githubusercontent.com/0314671268a426365d0333633e94c818e3fca2a6/68747470733a2f2f692e696d6775722e636f6d2f785932777162382e706e67",
     "deployable": true,
     "platform": "salesforce",
