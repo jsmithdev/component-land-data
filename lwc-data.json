@@ -1,13 +1,27 @@
 [
   {
     "_id": {
+      "$oid": "5e8a9d89b1b0d42njk4k3i5j"
+    },
+    "author": "jsmithdev",
+    "name": "signature-pad",
+    "title": "Signature Pad",
+    "keywords": "signature,sign,touch,pad",
+    "description": "A signature pad for Salesforce (desktop & mobile)",
+    "image": "https://camo.githubusercontent.com/5371fd9bf73a48cd95fb423aa79bdeb5fcc6e9b5190d4c44d036bd962fc5f9a2/68747470733a2f2f692e696d6775722e636f6d2f7779426e6a736d2e706e67",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "developer"
+  },
+  {
+    "_id": {
       "$oid": "5e8a9d89b1b0d42ab78gh38d"
     },
     "author": "jsmithdev",
     "name": "file-manager-sf",
     "title": "File Manager",
     "keywords": "file,manager,salesforce,files,category,download,upload",
-    "description": "Categorize, filter, download &amp; upload Salesforce files",
+    "description": "Categorize, filter, download & upload Salesforce files",
     "image": "https://camo.githubusercontent.com/b94b432b915ef51bdf48a8f3f4bdbd78acd4b0a33a35beb3fb281aca6d946384/68747470733a2f2f692e696d6775722e636f6d2f357756495351432e706e67",
     "deployable": true,
     "platform": "salesforce",
