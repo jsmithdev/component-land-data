@@ -1,6 +1,20 @@
 [
   {
     "_id": {
+      "$oid": "5e8a9d89b1b0d42a2j4bb4kd"
+    },
+    "author": "jsmithdev",
+    "name": "save-signature",
+    "title": "Save Signature",
+    "keywords": "signature,sign,touch,pad",
+    "description": "Save a user's signature in Salesforce (desktop & mobile)",
+    "image": "https://camo.githubusercontent.com/aecd9fc48ef56bec9ca077a90fae45e97ae2797b10377f60920e32e32ebaf0c4/68747470733a2f2f692e696d6775722e636f6d2f427639396649672e706e67",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "solution"
+  },
+  {
+    "_id": {
       "$oid": "5e8a9d89b1b0d42njk4k3i5j"
     },
     "author": "jsmithdev",
@@ -11,7 +25,7 @@
     "image": "https://camo.githubusercontent.com/5371fd9bf73a48cd95fb423aa79bdeb5fcc6e9b5190d4c44d036bd962fc5f9a2/68747470733a2f2f692e696d6775722e636f6d2f7779426e6a736d2e706e67",
     "deployable": true,
     "platform": "salesforce",
-    "type": "developer"
+    "type": "development"
   },
   {
     "_id": {
