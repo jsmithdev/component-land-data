@@ -1,6 +1,20 @@
 [
   {
     "_id": {
+      "$oid": "5e8a9d89b1b0d42nji4kf4g3"
+    },
+    "author": "jsmithdev",
+    "name": "carousel-images",
+    "title": "Create a carousel of images for Salesforce",
+    "keywords": "carousel,img,image,images",
+    "description": "A signature pad for Salesforce (desktop & mobile)",
+    "image": "https://camo.githubusercontent.com/f1c721b2f108ff026c2aaf7bb9d1af85cfea766446183b65001378ed802f30d8/68747470733a2f2f692e696d6775722e636f6d2f4971704869724d2e706e67",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "development"
+  },
+  {
+    "_id": {
       "$oid": "5e8a9d89b1b0d42a2j4bb4kd"
     },
     "author": "jsmithdev",
