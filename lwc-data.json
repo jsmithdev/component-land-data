@@ -1,6 +1,20 @@
 [
   {
     "_id": {
+      "$oid": "5e8a9d89b1b0d42nji2k6n6v"
+    },
+    "author": "jsmithdev",
+    "name": "product-manager",
+    "title": "Product Manager",
+    "keywords": "product,manager,family,products,inventory",
+    "description": "Categorize, filter, view, & edit Salesforce products",
+    "image": "https://camo.githubusercontent.com/6fe8c31be0df33066f916690e0ea61c2143ebd3cdb12581562c67af106e259c8/68747470733a2f2f692e696d6775722e636f6d2f4547666f41624b2e706e67",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "solution"
+  },
+  {
+    "_id": {
       "$oid": "5e8a9d89b1b0d42nji4kf4g3"
     },
     "author": "jsmithdev",
