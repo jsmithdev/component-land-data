@@ -1,20 +1,6 @@
 [
   {
     "_id": {
-      "$oid": "5e8a9d89b1b0d42nji2p3d3f"
-    },
-    "author": "jsmithdev",
-    "name": "pdf-force",
-    "title": "PDF Force",
-    "keywords": "pdf,generate,html,save,client",
-    "description": "Generate PDF from HTML (Salesforce, Client-side)",
-    "image": "https://camo.githubusercontent.com/87564b7df8d21af8c174a70a3681f4337735f0e487517db9ee697401e0d3420a/68747470733a2f2f692e696d6775722e636f6d2f51535235426f592e706e67",
-    "deployable": true,
-    "platform": "salesforce",
-    "type": "development"
-  }, 
-  {
-    "_id": {
       "$oid": "5e8a9d89b1b0d42nji2k6n6v"
     },
     "author": "jsmithdev",
