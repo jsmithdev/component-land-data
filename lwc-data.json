@@ -127,6 +127,20 @@
   },
   {
     "_id": {
+      "$oid": "5e8a9d89b1b0d42nji2ke2dw"
+    },
+    "author": "jsmithdev",
+    "name": "chatters",
+    "title": "Chatters",
+    "keywords": "chatter",
+    "description": "Experimental: View chatter posts from related records",
+    "image": "https://camo.githubusercontent.com/d1b7e693f2e860c43cf8dd9d1302e5d543d1289185f54bedae4989b4bcbf7b10/68747470733a2f2f692e696d6775722e636f6d2f694531534b35792e706e67",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "development"
+  },
+  {
+    "_id": {
       "$oid": "5e8aaa25b1b0d32cf0a76d6d"
     },
     "author": "jsmithdev",
