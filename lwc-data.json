@@ -8,7 +8,7 @@
     "title": "Contact Update Create",
     "keywords": "contact",
     "description": "Update/create a contact on any Contact child record",
-    "image": "https://camo.githubusercontent.com/b94b432b915ef51bdf48a8f3f4bdbd78acd4b0a33a35beb3fb281aca6d946384/68747470733a2f2f692e696d6775722e636f6d2f357756495351432e706e67",
+    "image": "https://camo.githubusercontent.com/13c28d504e68ef6cd9fe7d2cb4a2dcc1d520be9a6e496bc7776d3757c421e836/68747470733a2f2f696d6775722e636f6d2f7a3832584655462e706e67",
     "deployable": true,
     "platform": "salesforce",
     "type": "solution"
