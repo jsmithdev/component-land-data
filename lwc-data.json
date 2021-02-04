@@ -1,6 +1,20 @@
 [
   {
     "_id": {
+      "$oid": "5e8a9d89b1b0w42ab78gh84h"
+    },
+    "author": "effordDev",
+    "name": "Contact-Update-Create",
+    "title": "Contact Update Create",
+    "keywords": "contact",
+    "description": "Update/create a contact on any Contact child record",
+    "image": "https://camo.githubusercontent.com/b94b432b915ef51bdf48a8f3f4bdbd78acd4b0a33a35beb3fb281aca6d946384/68747470733a2f2f692e696d6775722e636f6d2f357756495351432e706e67",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "solution"
+  },
+  {
+    "_id": {
       "$oid": "5e8a9d89b1b0d42nji2k6n6v"
     },
     "author": "jsmithdev",
