@@ -1,28 +1,14 @@
 [
   {
     "_id": {
-      "$oid": "5e8a9d89b1b0w42ab78gh84h"
-    },
-    "author": "effordDev",
-    "name": "Contact-Update-Create",
-    "title": "Contact Update Create",
-    "keywords": "contact",
-    "description": "Update/create a contact on any Contact child record",
-    "image": "https://camo.githubusercontent.com/13c28d504e68ef6cd9fe7d2cb4a2dcc1d520be9a6e496bc7776d3757c421e836/68747470733a2f2f696d6775722e636f6d2f7a3832584655462e706e67",
-    "deployable": true,
-    "platform": "salesforce",
-    "type": "solution"
-  },
-  {
-    "_id": {
-      "$oid": "5e8a9d89b1b0d42nji2k6n6v"
+      "$oid": "5e8a9d89b1b0d42a2j4bb4kd"
     },
     "author": "jsmithdev",
-    "name": "product-manager",
-    "title": "Product Manager",
-    "keywords": "product,manager,family,products,inventory",
-    "description": "Categorize, filter, view, & edit Salesforce products",
-    "image": "https://camo.githubusercontent.com/6fe8c31be0df33066f916690e0ea61c2143ebd3cdb12581562c67af106e259c8/68747470733a2f2f692e696d6775722e636f6d2f4547666f41624b2e706e67",
+    "name": "save-signature",
+    "title": "Save Signature",
+    "keywords": "signature,sign,touch,pad",
+    "description": "Save a user's signature in Salesforce (desktop & mobile)",
+    "image": "https://camo.githubusercontent.com/aecd9fc48ef56bec9ca077a90fae45e97ae2797b10377f60920e32e32ebaf0c4/68747470733a2f2f692e696d6775722e636f6d2f427639396649672e706e67",
     "deployable": true,
     "platform": "salesforce",
     "type": "solution"
@@ -43,14 +29,42 @@
   },
   {
     "_id": {
-      "$oid": "5e8a9d89b1b0d42a2j4bb4kd"
+      "$oid": "5e8a9d89b1b0w42ab78gh84h"
+    },
+    "author": "effordDev",
+    "name": "Contact-Update-Create",
+    "title": "Contact Update Create",
+    "keywords": "contact",
+    "description": "Update/create a contact on any Contact child record",
+    "image": "https://camo.githubusercontent.com/13c28d504e68ef6cd9fe7d2cb4a2dcc1d520be9a6e496bc7776d3757c421e836/68747470733a2f2f696d6775722e636f6d2f7a3832584655462e706e67",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "solution"
+  },
+  {
+    "_id": {
+      "$oid": "5e8a9d89b1b0w42ab78j4kd8"
     },
     "author": "jsmithdev",
-    "name": "save-signature",
-    "title": "Save Signature",
-    "keywords": "signature,sign,touch,pad",
-    "description": "Save a user's signature in Salesforce (desktop & mobile)",
-    "image": "https://camo.githubusercontent.com/aecd9fc48ef56bec9ca077a90fae45e97ae2797b10377f60920e32e32ebaf0c4/68747470733a2f2f692e696d6775722e636f6d2f427639396649672e706e67",
+    "name": "jsonparse",
+    "title": "JSON Parse",
+    "keywords": "json parse",
+    "description": "Apex JSON parser making easier to access JSON data",
+    "image": "https://raw.githubusercontent.com/jsmithdev/component-land-data/main/resources/jsonparse.png",
+    "deployable": true, 
+    "platform": "salesforce",
+    "type": "development"
+  },
+  {
+    "_id": {
+      "$oid": "5e8a9d89b1b0d42nji2k6n6v"
+    },
+    "author": "jsmithdev",
+    "name": "product-manager",
+    "title": "Product Manager",
+    "keywords": "product,manager,family,products,inventory",
+    "description": "Categorize, filter, view, & edit Salesforce products",
+    "image": "https://camo.githubusercontent.com/6fe8c31be0df33066f916690e0ea61c2143ebd3cdb12581562c67af106e259c8/68747470733a2f2f692e696d6775722e636f6d2f4547666f41624b2e706e67",
     "deployable": true,
     "platform": "salesforce",
     "type": "solution"
