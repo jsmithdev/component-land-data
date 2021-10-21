@@ -99,6 +99,20 @@
   },
   {
     "_id": {
+      "$oid": "5e8a9d89b1b0d32coi3nd5fh"
+    },
+    "author": "jsmithdev",
+    "name": "knowledge-lib-deflect",
+    "title": "Knowledge Library & Case Deflector",
+    "keywords": "knowledge,library,lwc,case,deflection,deflector",
+    "description": "Article View / Defection: tree view of Questions to deflect case creation with tracking, voting and case creation. \n Knowledge Library: tree view of categories to filter articles with search filtering, pagination, sorting, etc",
+    "image": "https://github.com/jsmithdev/knowledge-lib-deflect/raw/master/resources/screenie-both.png",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "solution"
+  },
+  {
+    "_id": {
       "$oid": "5e8a9d89b1b0d32cf0v9d0sb"
     },
     "author": "jsmithdev",
