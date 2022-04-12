@@ -77,7 +77,7 @@
     "name": "signature-pad",
     "title": "Signature Pad",
     "keywords": "signature,sign,touch,pad",
-    "description": "A signature pad for Salesforce (desktop & mobile)",
+    "description": "A signature pad for Salesforce & OSS LWC (desktop & mobile)",
     "image": "https://camo.githubusercontent.com/5371fd9bf73a48cd95fb423aa79bdeb5fcc6e9b5190d4c44d036bd962fc5f9a2/68747470733a2f2f692e696d6775722e636f6d2f7779426e6a736d2e706e67",
     "deployable": true,
     "platform": "salesforce",
