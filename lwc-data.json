@@ -3,6 +3,20 @@
     "_id": {
       "$oid": "5e8a9d89b1b0d42a2j4bb4kd"
     },
+    "author": "effordDev",
+    "name": "sf-calendar",
+    "title": "Calendar",
+    "keywords": "calendar",
+    "description": "Full Calendar implementation in Salesforce",
+    "image": "https://user-images.githubusercontent.com/36901822/164522086-c856aea6-5ea7-4659-9e51-20483b876d67.png",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "solution"
+  },
+  {
+    "_id": {
+      "$oid": "5e8a9d89b1b0d42a2j4bb4kd"
+    },
     "author": "jsmithdev",
     "name": "save-signature",
     "title": "Save Signature",
