@@ -29,6 +29,20 @@
   },
   {
     "_id": {
+      "$oid": "5e8a9d89b1b0d42k59g7jiy2"
+    },
+    "author": "jsmithdev",
+    "name": "ui-progress",
+    "title": "UI Progress",
+    "keywords": "progress,bar,circle,animate",
+    "description": "Progress bar, circle, arch or custom shape with easy to use APIs",
+    "image": "https://camo.githubusercontent.com/1e7054f0d93218dd76256dcf17dc0cd1ff39a0c8dfed79a4ba6cbc6264a25032/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645542326e687361557069645854637373412f67697068792e676966",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "development"
+  },
+  {
+    "_id": {
       "$oid": "5e8a9d89b1b0d42nji4kf4g3"
     },
     "author": "jsmithdev",
