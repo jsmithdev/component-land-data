@@ -222,5 +222,33 @@
     "deployable": true,
     "platform": "salesforce",
     "type": "development"
+  },
+  {
+    "_id": {
+      "$oid": "9f120699561744fd97eb4594add2694a"
+    },
+    "author": "effordDev",
+    "name": "sf-files-2-s3",
+    "title": "sf-files-2-s3",
+    "keywords": "files,lwc,salesforce,amazon,s3",
+    "description": "File storage integration using Amazon S3 SDK for Salesforce",
+    "image": "https://user-images.githubusercontent.com/36901822/199579670-c696e7d8-bcce-4d1c-a1f9-dea26e63733f.png",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "solution"
+  },
+  {
+    "_id": {
+      "$oid": "9f120699561744fd97eb4594add2694a"
+    },
+    "author": "effordDev",
+    "name": "sf-2-sftp",
+    "title": "sf-2-sftp",
+    "keywords": "sftp,ftp,files,apex,salesforce,node",
+    "description": "Provides a node.js server that connects to an sftp site and can drop a file in a specified path.",
+    "image": "https://user-images.githubusercontent.com/36901822/160465519-c9dab91b-822b-457d-b008-b9edba1997e8.png",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "solution"
   }
 ]
