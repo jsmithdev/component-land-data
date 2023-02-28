@@ -141,6 +141,20 @@
   },
   {
     "_id": {
+      "$oid": "5e8a9d89bjekl2kjeufjekl4"
+    },
+    "author": "jsmithdev",
+    "name": "flow-action-override",
+    "title": "Flow Action Override",
+    "keywords": "override,standard,action,flow",
+    "description": "Override an Action with a Flow",
+    "image": "https://raw.githubusercontent.com/jsmithdev/flow-action-override/main/docs/Screenshot%20from%202023-02-28%2001-53-38.png",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "solution"
+  },
+  {
+    "_id": {
       "$oid": "5e8a9d89b1b0d32cf0v9d0sb"
     },
     "author": "jsmithdev",
