@@ -119,11 +119,11 @@
     "name": "iFramed",
     "title": "iFramed",
     "keywords": "lwc,iframe,builder",
-    "description": "An LWC component to embed a URL in an iframe in Salesforce via Builder",
-    "image": "https://camo.githubusercontent.com/191274cbf18972b3d94b622299319ee6a63ccac07d3e516cedd394a44236f23c/68747470733a2f2f692e696d6775722e636f6d2f51306a524652512e706e67",
+    "description": "An LWC with template syntax support to embed an external site in Salesforce",
+    "image": "https://github.com/jsmithdev/iframed/blob/main/docs/iframed.png?raw=true",
     "deployable": true,
     "platform": "salesforce",
-    "type": "development"
+    "type": "solution"
   },
   {
     "_id": {
