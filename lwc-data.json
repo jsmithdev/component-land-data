@@ -15,6 +15,34 @@
   },
   {
     "_id": {
+      "$oid": "5e8a9389f1bg2s2f2j4xb4kd"
+    },
+    "author": "jsmithdev",
+    "name": "dynamic-checkbox-group",
+    "title": "Dynamic Checkbox Group",
+    "keywords": "dynamic,checkbox,group,lwc",
+    "description": "Set options dynamically, horizontal, vertical, etc",
+    "image": "https://camo.githubusercontent.com/a9abd695fbcaf74f95ca4ce01dcae9cdb6fac05243c2ff575082f9b181cd122b/68747470733a2f2f692e696d6775722e636f6d2f434a49733553622e706e67",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "development"
+  },
+  {
+    "_id": {
+      "$oid": "6j8e93s9f1hg2s2f2j4xb4kd"
+    },
+    "author": "jsmithdev",
+    "name": "dynamic-picklist",
+    "title": "Dynamic Picklist",
+    "keywords": "dynamic,picklist,lwc",
+    "description": "Set options dynamically based on the object, field, etc",
+    "image": "https://camo.githubusercontent.com/1f5178c50d027cc9d8e1dd3147eaa9c6e7d9362cd2c5320ef62dbacd18db9e30/68747470733a2f2f692e696d6775722e636f6d2f3235356353355a2e706e67",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "development"
+  },
+  {
+    "_id": {
       "$oid": "5e8a9d89b1b0d42a2j4bb4kd"
     },
     "author": "jsmithdev",
