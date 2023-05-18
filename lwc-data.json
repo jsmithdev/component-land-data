@@ -25,7 +25,8 @@
     "image": "https://camo.githubusercontent.com/a9abd695fbcaf74f95ca4ce01dcae9cdb6fac05243c2ff575082f9b181cd122b/68747470733a2f2f692e696d6775722e636f6d2f434a49733553622e706e67",
     "deployable": true,
     "platform": "salesforce",
-    "type": "development"
+    "type": "development",
+	"deploy-branch": "main"
   },
   {
     "_id": {
@@ -39,7 +40,8 @@
     "image": "https://camo.githubusercontent.com/1f5178c50d027cc9d8e1dd3147eaa9c6e7d9362cd2c5320ef62dbacd18db9e30/68747470733a2f2f692e696d6775722e636f6d2f3235356353355a2e706e67",
     "deployable": true,
     "platform": "salesforce",
-    "type": "development"
+    "type": "development",
+	"deploy-branch": "main"
   },
   {
     "_id": {
@@ -67,7 +69,8 @@
     "image": "https://camo.githubusercontent.com/1e7054f0d93218dd76256dcf17dc0cd1ff39a0c8dfed79a4ba6cbc6264a25032/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645542326e687361557069645854637373412f67697068792e676966",
     "deployable": true,
     "platform": "salesforce",
-    "type": "development"
+    "type": "development",
+	"deploy-branch": "main"
   },
   {
     "_id": {
@@ -151,7 +154,8 @@
     "image": "https://github.com/jsmithdev/iframed/blob/main/docs/iframed.png?raw=true",
     "deployable": true,
     "platform": "salesforce",
-    "type": "solution"
+    "type": "solution",
+	"deploy-branch": "main"
   },
   {
     "_id": {
@@ -193,7 +197,8 @@
     "image": "https://raw.githubusercontent.com/jsmithdev/flow-action-override/main/docs/Screenshot%20from%202023-02-28%2001-53-38.png",
     "deployable": true,
     "platform": "salesforce",
-    "type": "solution"
+    "type": "solution",
+	"deploy-branch": "main"
   },
   {
     "_id": {
@@ -305,6 +310,7 @@
     "image": "https://user-images.githubusercontent.com/36901822/160465519-c9dab91b-822b-457d-b008-b9edba1997e8.png",
     "deployable": true,
     "platform": "salesforce",
-    "type": "solution"
+    "type": "solution",
+	"deploy-branch": "main"
   }
 ]
