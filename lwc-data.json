@@ -91,11 +91,25 @@
       "$oid": "5e8a9d89b1b0w42ab78gh84h"
     },
     "author": "effordDev",
-    "name": "Contact-Update-Create",
-    "title": "Contact Update Create",
-    "keywords": "contact",
-    "description": "Update/create a contact on any Contact child record",
-    "image": "https://camo.githubusercontent.com/13c28d504e68ef6cd9fe7d2cb4a2dcc1d520be9a6e496bc7776d3757c421e836/68747470733a2f2f696d6775722e636f6d2f7a3832584655462e706e67",
+    "name": "sf-node-stripe",
+    "title": "sf-node-stripe",
+    "keywords": "salesforce,stripe-checkout,nodejs,stripe,",
+    "description": "Provides a jump start to implementing Stripe into salesforce.",
+    "image": "https://github.com/effordDev/sf-node-stripe/assets/36901822/f04da7f4-48c6-49ed-9deb-218c4b213ae1",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "solution"
+  },
+  {
+    "_id": {
+      "$oid": "5e8a9d69b1b0w42ab78gh84j"
+    },
+    "author": "effordDev",
+    "name": "sf-stripe",
+    "title": "sf-stripe",
+    "keywords": "salesforce,stripe-checkout,stripe-api,nodejs,stripe,",
+    "description": "Provides a jump start to implementing Stripe into salesforce.",
+    "image": "https://github.com/effordDev/sf-node-stripe/assets/36901822/f04da7f4-48c6-49ed-9deb-218c4b213ae1",
     "deployable": true,
     "platform": "salesforce",
     "type": "solution"
