@@ -95,7 +95,7 @@
     "title": "sf-node-stripe",
     "keywords": "salesforce,stripe-checkout,nodejs,stripe,",
     "description": "Provides a jump start to implementing Stripe into salesforce.",
-    "image": "https://github.com/effordDev/sf-node-stripe/assets/36901822/f04da7f4-48c6-49ed-9deb-218c4b213ae1",
+    "video": "https://github.com/effordDev/sf-node-stripe/assets/36901822/f04da7f4-48c6-49ed-9deb-218c4b213ae1",
     "deployable": true,
     "platform": "salesforce",
     "type": "solution"
@@ -109,7 +109,7 @@
     "title": "sf-stripe",
     "keywords": "salesforce,stripe-checkout,stripe-api,nodejs,stripe,",
     "description": "Provides a jump start to implementing Stripe into salesforce.",
-    "image": "https://github.com/effordDev/sf-node-stripe/assets/36901822/f04da7f4-48c6-49ed-9deb-218c4b213ae1",
+    "video": "https://github.com/effordDev/sf-node-stripe/assets/36901822/f04da7f4-48c6-49ed-9deb-218c4b213ae1",
     "deployable": true,
     "platform": "salesforce",
     "type": "solution"
