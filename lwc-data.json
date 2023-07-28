@@ -338,6 +338,7 @@
     "image": "https://i.imgur.com/wWgYQ69.png",
     "deployable": true,
     "platform": "salesforce",
-    "type": "component"
+    "type": "development",
+    "deploy-branch": "main"
   }
 ]
