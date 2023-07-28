@@ -326,5 +326,18 @@
     "platform": "salesforce",
     "type": "solution",
 	"deploy-branch": "main"
+  },  {
+    "_id": {
+      "$oid": "5e8a9d89b1b0d42a2j4bb4kv"
+    },
+    "author": "tomtobiascc",
+    "name": "configurableLWCs",
+    "title": "Calendar",
+    "keywords": "calendar",
+    "description": "A set of components for experience cloud that have a number of admin-configurable attributes (CSS, hyperlinks, labels, etc.)",
+    "image": "https://i.imgur.com/wWgYQ69.png",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "component"
   }
 ]
