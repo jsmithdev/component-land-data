@@ -340,5 +340,20 @@
     "platform": "salesforce",
     "type": "development",
     "deploy-branch": "main"
+  },
+  {
+    "_id": {
+      "$oid": "234f43f5g53435g5fdsgfdgdfr"
+    },
+    "author": "effordDev",
+    "name": "sf-quick-text",
+    "title": "sf-quick-text",
+    "keywords": "quicktext, lwc",
+    "description": "A quick component to allows a user to select quick text from the standard QuickText sobject.",
+    "image": "https://raw.githubusercontent.com/effordDev/sf-quick-text/main/Screenshot%202023-09-06%20at%2011.14.55%20AM.png",
+    "deployable": true,
+    "platform": "salesforce",
+    "type": "development",
+    "deploy-branch": "main"
   }
 ]
